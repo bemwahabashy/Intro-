@@ -1,4 +1,4 @@
-![my brand]((https://64.media.tumblr.com/dc3697bed909aeae46e22dba541114d2/tumblr_mwyf5fwezO1rsdpaso1_500.gifv))
+![my brand](https://64.media.tumblr.com/dc3697bed909aeae46e22dba541114d2/tumblr_mwyf5fwezO1rsdpaso1_500.gifv)
 <br>
 <br>
 <h3 style="font-weight:bold"><em>Welcome to my dimension</em>
