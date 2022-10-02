@@ -5,7 +5,7 @@
 </h3><br>
 <br>
 
-[![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
+[![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=plastic&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175](https://www.linkedin.com/in/bemwa-habashy-b906181bb/)
 [![Instagram: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-pink?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyrusbaebae/)](https://www.instagram.com/cyrusbaebae/)
 [![Twitter: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-lightblue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CyrusBaebae)](https://twitter.com/CyrusBaebae)
 
