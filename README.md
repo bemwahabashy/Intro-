@@ -19,12 +19,10 @@ let Bemwa = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Node, Figma, Firebase, AWS],
   university: "Cal State Fullerton 🐘",
-  hobbies: [🏋️gym, 🎹piano, 🚶‍♂️hiking, 🎸guitar, 🏐volleyball, 🤽waterpolo, 🎱pool, 🎮video_games],
+  hobbies: [🏋️gym, 🏀basketball, 🚶‍♂️hiking, ⚽soccer,🎱pool, 🎮video_games],
   passionateAbout: {
                         software: "engineering",
-                        full-stack: "development,
-                        machine: "learning & A.I",
-                        Web3: "blockchain"
+                        data: "science",
                     },
 }
 ```
@@ -32,7 +30,7 @@ let Bemwa = {
 
 <h3 style="font-weight:bold">📫 Reach out to me!</h3>
 <ul>
-<li>💌 You can contact me at <a href="mailto:cyrusb10@gmail.com">cyrusb10@gmail.com</a></li>
+<li>💌 You can contact me at <a href="mailto:bemwaehsan1@gmail.com">bemwaehsan1@gmail.com</a></li>
 <li>📱 You can also DM me on any of the social media's above!</li>
 </ul>
 <br>
